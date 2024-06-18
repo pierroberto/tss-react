@@ -82,7 +82,7 @@ export default Document;
 
 ### Make MUI and TSS use different caches
 
-If you want TSS and MUI to use different caches you can implement this approach. This is mainly usefull if you are migrating from MUI v4 using TSS and [some styles don't display like they used to](../troubleshoot-migration-to-muiv5-with-tss.md).
+If you want TSS and MUI to use different caches you can implement this approach. This is mainly useful if you are migrating from MUI v4 using TSS and [some styles don't display like they used to](../troubleshoot-migration-to-muiv5-with-tss.md).
 
 {% tabs %}
 {% tab title="App Router" %}
