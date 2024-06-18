@@ -37,7 +37,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
 {% endtab %}
 
 {% tab title="Next.js" %}
-Link to the setp instruction: [Make MUI and TSS use different caches](https://docs.tss-react.dev/ssr/next.js#make-mui-and-tss-use-different-caches).
+Link to the setup instruction: [Make MUI and TSS use different caches](https://docs.tss-react.dev/ssr/next.js#make-mui-and-tss-use-different-caches).
 {% endtab %}
 {% endtabs %}
 
